@@ -1,6 +1,12 @@
 # Examples of usage: https://riptutorial.com/fr/git/example/885/ignorer-les-fichiers-et-les-repertoires-avec-un-fichier--gitignore
 
 # Files or directories below are ignored
+.gitignore~
+
 tutorial/data
 tutorial/images
 tutorial/models
+
+Lectures/EDSF
+Lectures/Dataverne
+Lectures/2019
