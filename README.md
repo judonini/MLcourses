@@ -1,4 +1,4 @@
-# MLcourses2019
+# ML courses at UCA - France
 
 Lectures and tutorials on Machine Learning at the University Clermont Auvergne (France).
 
